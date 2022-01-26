@@ -1,1 +1,1 @@
-I've been taking Colt Steele's Udemy course The Web Developer Bootcamp since November 2019. 
+This was an interesting project just to learn more CSS from Colt Steele's The Web Developer Bootcamp. It's a photo blog. I may try to add some functionality to it, like clicking on each photo would take you to its own page or something.
